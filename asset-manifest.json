@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dahlia_of_wednesday/static/css/main.a617e044.chunk.css",
+    "main.js": "/dahlia_of_wednesday/static/js/main.e2905d31.chunk.js",
+    "main.js.map": "/dahlia_of_wednesday/static/js/main.e2905d31.chunk.js.map",
+    "runtime-main.js": "/dahlia_of_wednesday/static/js/runtime-main.ff1da8ba.js",
+    "runtime-main.js.map": "/dahlia_of_wednesday/static/js/runtime-main.ff1da8ba.js.map",
+    "static/js/2.c1322f4b.chunk.js": "/dahlia_of_wednesday/static/js/2.c1322f4b.chunk.js",
+    "static/js/2.c1322f4b.chunk.js.map": "/dahlia_of_wednesday/static/js/2.c1322f4b.chunk.js.map",
+    "static/js/3.97acc676.chunk.js": "/dahlia_of_wednesday/static/js/3.97acc676.chunk.js",
+    "static/js/3.97acc676.chunk.js.map": "/dahlia_of_wednesday/static/js/3.97acc676.chunk.js.map",
+    "index.html": "/dahlia_of_wednesday/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/dahlia_of_wednesday/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c1322f4b.chunk.js.LICENSE.txt": "/dahlia_of_wednesday/static/js/2.c1322f4b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dahlia_of_wednesday/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff1da8ba.js",
+    "static/js/2.c1322f4b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e2905d31.chunk.js"
+  ]
+}
